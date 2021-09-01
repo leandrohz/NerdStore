@@ -1,4 +1,4 @@
-# NerdStore
+# Projeto NerdStore
 Modelagem Tática
 
 # DDD não é arquitetura em camadas.
